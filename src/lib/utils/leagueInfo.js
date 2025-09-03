@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Hagan is gay.</p>
+  <p>Dynasty page for a bunch of weiners. Ask Hagan for content adjustment.</p>
 `;
 
 /*   STEP 3   */
